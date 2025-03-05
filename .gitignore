@@ -1,0 +1,5 @@
+/.venv
+/response.json
+.env
+__pycache__/
+*.pyc
